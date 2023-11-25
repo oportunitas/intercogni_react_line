@@ -1,6 +1,6 @@
 {
   "name": "intercogni_react_line",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "—create lines in react user interfaces",
   "main": "index.tsx",
   "scripts": {

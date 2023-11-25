@@ -1,4 +1,4 @@
-import { useEffect, useRef, useState } from 'react';
+import { React, useEffect, useRef, useState } from 'react';
 
 export default function Line({
     from,
@@ -54,9 +54,6 @@ export default function Line({
         (swap_cardinity) ? 
         "-" + incidence : 
         "" + incidence;
-    const delta_y = 
-
-    console.log(`tetanya: ${theta}`);
     return (
         <div 
             ref={this_element}
@@ -80,7 +77,6 @@ export default function Line({
                 transformOrigin: `0.0rem ${rem_thickness / 2}rem`,
                 margin: `-${rem_thickness / 2}rem 0rem -${rem_thickness / 2}rem -0rem`,
             }}>
-
             </div>
         </div>
     )
