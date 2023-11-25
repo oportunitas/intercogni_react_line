@@ -8,7 +8,7 @@ This package allows users to:
 - Use rems—not pixels—to scale lines
 
 ## In Development
-The features below are currently **in development** for future versions, but is **DOES NOT** exist on this version of the package::
+The features below are currently **in development** for future versions, but **DOES NOT** exist on this version of the package::
 - Use other dynamic scaling units to scale and position lines
 - Add styling inside lines (texts/images)
 
