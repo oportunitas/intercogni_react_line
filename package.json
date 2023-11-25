@@ -1,0 +1,22 @@
+{
+  "name": "intercogni_react_line",
+  "version": "0.0.1",
+  "description": "—create lines in react user interfaces",
+  "main": "index.tsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Oportunitas/intercogni_react_line.git"
+  },
+  "author": "Oportunitas (Taib Izzat Samawi)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Oportunitas/intercogni_react_line/issues"
+  },
+  "homepage": "https://github.com/Oportunitas/intercogni_react_line#readme",
+  "dependencies": {
+    "react": "^18.2.0"
+  }
+}
